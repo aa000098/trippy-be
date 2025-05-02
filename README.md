@@ -24,8 +24,8 @@
 
 ## Description
 
-https://www.notion.so/2023-Innovation-Academy-5f605dca2dab41089e166c535cd683fd
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+https://www.notion.so/2023-Innovation-Academy-5f605dca2dab41089e166c535cd683fd  
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.  
 
 ## Installation
 
